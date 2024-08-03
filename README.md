@@ -1,6 +1,7 @@
 # About
 
-https://github.com/devaftab/abhi
+https://github.com/Abhishekpandit888/TourAndTravel/
+
 
 # Tech Stack
 - This is built using the MERN (MongoDB, Express.js, React, Node.js) stack. <br>
